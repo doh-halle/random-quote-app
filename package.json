@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/autumnchris/random-quote-machine-reactjs.git"
+    "url": "git+https://github.com/doh-halle/random-quote-app.git"
   },
   "keywords": [],
-  "author": "autumnchris",
+  "author": "Doh Halle",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/autumnchris/random-quote-machine-reactjs/issues"
+    "url": "https://github.com/doh-halle/random-quote-app/issues"
   },
-  "homepage": "https://autumnchris.github.io/random-quote-machine-reactjs",
+  "homepage": "https://doh-halle.github.io/random-quote-app",
   "dependencies": {
     "axios": "^0.21.1",
     "normalize.css": "^5.0.0",
