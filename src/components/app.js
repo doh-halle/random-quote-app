@@ -24,7 +24,7 @@ const App = () => {
   return (
     <React.Fragment>
       <header>
-        <h1>Inspirational Quotes</h1>
+        <h1>Inspiring Quotes</h1>
       </header>
       <main>
         {loadingStatus ? <LoadingSpinner /> : quotes.length !== 0 ? <QuoteContainer quotes={quotes} /> : <ErrorMessage />}
